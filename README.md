@@ -2,8 +2,6 @@
 
 ![Classroom demo](https://drive.google.com/uc?esport=view&id=14Iu2VRcHoCKUCUkF0iMCuyjcj9_TZ90a)
 
-#### Warning: although this project has some basics security such as hashed user password and others, this project is NOT secure enough in production. (Contribute to this project by making a pull request will be appreciated)
-
 How to run:
 
 - Clone this repository or fork it.
